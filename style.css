@@ -1,15 +1,16 @@
 .body_backgorund {
-    background-image: url("bg1.png");
+    background-image: url("bg1.jpg");
     background-position: center;
     background-size: cover;
   }
   body{
+    overflow:hidden;
     cursor: pointer;
   }
   h1
   {
       color: red; 
-      font-size: 20px;
+      font-size: 40px;
   }
   #myCanvas
   {
